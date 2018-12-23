@@ -8,5 +8,7 @@ c:\users\tridip\documents\visual studio 2013\Projects\TPLTest\TPLTest\obj\Debug\
 c:\users\tridip\documents\visual studio 2013\Projects\TPLTest\TPLTest\obj\Debug\TPLTest.pdb
 c:\users\tridip\documents\visual studio 2013\Projects\TPLTest\TPLTest\obj\Debug\TPLTest.Form2.resources
 c:\users\tridip\documents\visual studio 2013\Projects\TPLTest\TPLTest\obj\Debug\TPLTest.Form3.resources
-C:\Users\TRIDIP\documents\visual studio 2013\Projects\TPLTest\TPLTest\obj\Debug\TPLTest.csprojResolveAssemblyReference.cache
 C:\Users\TRIDIP\documents\visual studio 2013\Projects\TPLTest\TPLTest\obj\Debug\TPLTest.Form4.resources
+C:\Users\TRIDIP\documents\visual studio 2013\Projects\TPLTest\TPLTest\obj\Debug\TPLTest.LongRunningOperationForm.resources
+C:\Users\TRIDIP\documents\visual studio 2013\Projects\TPLTest\TPLTest\obj\Debug\TPLTest.csprojResolveAssemblyReference.cache
+C:\Users\TRIDIP\documents\visual studio 2013\Projects\TPLTest\TPLTest\obj\Debug\TPLTest.UpdateUIFrom2AsyncFunction.resources

@@ -25,6 +25,7 @@ namespace TPLTest
             var result = await Task.WhenAll(task1, task2);
         }
 
+        /*
         public string GetAllTheCats()
         {
             // Do stuff, like hit the Db, spin around, dance, jump, etc...
@@ -38,6 +39,23 @@ namespace TPLTest
             // Do more stuff, like hit the Db, nom nom noms...
             // It all takes some time.
             Thread.Sleep(2000);
+            return "food found";
+        }
+        */
+
+        public async Task<string> GetAllTheCats()
+        {
+            // Do stuff, like hit the Db, spin around, dance, jump, etc...
+            // It all takes some time.
+            await Task.Delay(1000);
+            return "cat found";
+        }
+
+        public async Task<string> GetAllTheFood()
+        {
+            // Do more stuff, like hit the Db, nom nom noms...
+            // It all takes some time.
+            await Task.Delay(2000);
             return "food found";
         }
     }

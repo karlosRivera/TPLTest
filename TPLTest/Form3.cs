@@ -46,11 +46,11 @@ namespace TPLTest
             button2.Enabled = false;
             var count = 0;
 
-            for (var i = 0; i <= 500; i++)
+            for (var i = 0; i <= 500000000; i++)
             {
                 count = i;
                 label2.Text = i.ToString();
-                await Task.Delay(100);         // do async I/O or Task.Run() here
+                await Task.Delay(50);         // do async I/O or Task.Run() here
             }    
         }
 
